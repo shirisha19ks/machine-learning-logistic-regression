@@ -1,0 +1,40 @@
+# Logistic Regression Project
+
+This project demonstrates the implementation of Logistic Regression using Machine Learning techniques for classification tasks.
+
+## Project Overview
+- Data preprocessing
+- Handling missing values
+- Encoding categorical data
+- Feature scaling
+- Train-test splitting
+- Model training using Logistic Regression
+- Model evaluation
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Workflow
+1. Import Dataset
+2. Data Cleaning
+3. Encoding
+4. Feature Scaling
+5. Train-Test Split
+6. Train Logistic Regression Model
+7. Evaluate Model Accuracy
+
+## Evaluation Metrics
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+## Goal
+To build a classification model and understand how Logistic Regression works in Machine Learning.
+
+## Author
+Shirisha
